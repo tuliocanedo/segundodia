@@ -1,0 +1,107 @@
+.testimony-box {
+	padding: 40px;
+}
+
+.testimony {
+	width: 940px;
+	height: 610px;
+	margin: 0 auto;
+	background-image: url(images/pattern-bg.svg); background-repeat: no-repeat; background-size: contain; background-position-x: right;
+}
+
+.testimony-one {
+	position:relative;
+	right: 180px;
+	top: 100px;
+	font-size: 20px;
+	text-align: center;
+	width: 50%;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+}
+
+.photo-one {
+	position: relative;
+	left: 400px;
+	bottom: 115px;
+	width: 450px;
+	height: 500px;
+}
+
+.testimony-second {
+	width: 940px;
+	height: 610px;
+	margin: 0 auto;
+	background-image: url(images/pattern-bg.svg); background-repeat: no-repeat; background-size: contain; background-position-x: right;
+}
+
+.testimony-two {
+	position:relative;
+	right: 180px;
+	top: 150px;
+	font-size: 20px;
+	text-align: center;
+	width: 50%;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+}
+
+.photo-two {
+	position: relative;
+	left: 400px;
+	bottom: 80px;
+	width: 450px;
+	height: 500px;
+}
+
+.icons {
+	position: absolute;
+	top: 580px;
+	right: 550px;
+	text-align: center;
+	width: 10%;
+	vertical-align: middle;
+	margin: 0 1.5%;
+	padding: 10px 5px;
+	box-sizing: border-box;
+	border: 2px solid white;
+	border-radius: 50px;
+	background-color:white;	
+}
+
+.photo-curve{
+	position: relative;
+	right: 620px;
+	width: 450px;
+	height: 150px;
+}
+
+.icons-two {
+	position:absolute;
+	top: 1220px;
+	right: 550px;
+	text-align: center;
+	width: 10%;
+	vertical-align: middle;
+	margin: 0 1.5%;
+	padding: 10px 5px;
+	box-sizing: border-box;
+	border: 2px solid white;
+	border-radius: 50px;
+	background-color:white;
+}
+
+
+.photo-curve-two{
+	position:absolute;
+	right: 835px;
+	width: 450px;
+	height: 150px;
+}
+
+.attribution {
+	position:relative;
+	display:inline-block;
+	padding-top: 100px;
+	width: 100%;
+}
